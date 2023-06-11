@@ -53,8 +53,8 @@
 
 
 
-### Name: THIYAGARAJAN A
-### Register Number: 212222240110
+### Name: SARGURU K
+### Register Number: 212222230134
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
